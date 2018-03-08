@@ -7,11 +7,12 @@ The model works for English, Spanish and Dutch texts. This submission won 3rd pl
 Disclaimer: this is my old code from 2016 and I haven't looked into it lately. In the future I would like to port it to 
 Python 3. Currently it has some neat scikit-learn trickery including an example on a complex model
 pipeline, modifications of the TF-IDF Vectorizer and much more. It also includes a lot of interesting advanced NLP
-features about which you can read in my [Thesis](./Thesis+Papers/IvanBilan_CrossGenreAuthorProfiling_2016.pdf). Since
+features about which you can read in my [Thesis](./Thesis+Papers/IvanBilan_CrossGenreAuthorProfiling_2016.pdf) or the
+[conference paper](ceur-ws.org/Vol-1609/16090824.pdf). Since
 this project I've almost entirely moved on to Deep Learning and haven't written features like these anymore.
 
 The dataset is not included but it is now available on the PAN website linked above.
- 
+
 # Installation Guide
 **You will need:**
 
